@@ -1,8 +1,30 @@
 aid: sturdy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sturdy.png
 name: Sturdy
-description: 'Sturdy is a company surfaced as a portfolio company of pantera-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Sturdy is a decentralized liquid money market protocol for on-chain lending and
+  borrowing. Sturdy V2 uses a two-tier architecture: a base layer of risk-isolated
+  lending pairs, where each siloed market consists of a single lending asset and a
+  single collateral asset, and an aggregation layer on top that lets lenders choose
+  acceptable collateral types while avoiding liquidity fragmentation. The protocol is
+  oracle-agnostic (using RedStone, API3, and eOracle feeds depending on the market),
+  is governed by the $STRDY token and the Sturdy DAO, and has been audited by Zellic,
+  ChainSecurity, Spearbit, Certik, Code4rena, and Quantstamp. Sturdy is an on-chain
+  smart-contract protocol rather than a hosted REST API: its developer surface is the
+  published smart contracts, oracle integrations, and the Sturdy Subnet, with no
+  first-party web API, SDK, or OpenAPI. This profile was surfaced as a portfolio
+  company of Pantera Capital.
 url: https://raw.githubusercontent.com/api-evangelist/sturdy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Crypto
+- DeFi
+- Lending
+- Money Market
+- Web3
+- Smart Contracts
+- Blockchain
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +53,20 @@ maintainers:
 common:
 - type: Website
   url: https://sturdy.finance/
+- type: Documentation
+  url: https://docs.sturdy.finance/
+- type: LLMsTxt
+  url: llms/sturdy-llms.txt
+- type: Blog
+  url: https://sturdyfinance.medium.com/
+- type: GitHubOrganization
+  url: https://github.com/sturdyfi
+- type: Support
+  url: https://discord.com/invite/tRVHp6Vx5N
+- type: DomainSecurity
+  url: security/sturdy-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

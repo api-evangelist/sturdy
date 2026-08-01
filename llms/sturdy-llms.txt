@@ -1,0 +1,17 @@
+# Sturdy V2
+
+## Sturdy V2
+
+- [What is Sturdy?](https://docs.sturdy.finance/overview/what-is-sturdy.md)
+- [Why use Sturdy?](https://docs.sturdy.finance/overview/why-use-sturdy.md)
+- [Risk management](https://docs.sturdy.finance/overview/risk-management.md)
+- [Liquidations](https://docs.sturdy.finance/overview/liquidations.md)
+- [Interest rates](https://docs.sturdy.finance/overview/interest-rates.md)
+- [Security and audits](https://docs.sturdy.finance/overview/security-and-audits.md)
+- [Sturdy Subnet](https://docs.sturdy.finance/overview/sturdy-subnet.md)
+- [$STRDY](https://docs.sturdy.finance/sturdy-dao/usdstrdy.md)
+- [Governance](https://docs.sturdy.finance/sturdy-dao/governance.md)
+- [Liquidity mining](https://docs.sturdy.finance/sturdy-dao/liquidity-mining.md)
+- [Community resources](https://docs.sturdy.finance/library/community-resources.md): Stay connected with Sturdy community
+- [Brand assets](https://docs.sturdy.finance/library/brand-assets.md): Where the official Sturdy logos and branding assets can be downloaded for use.
+- [Contract addresses](https://docs.sturdy.finance/library/contract-addresses.md)
